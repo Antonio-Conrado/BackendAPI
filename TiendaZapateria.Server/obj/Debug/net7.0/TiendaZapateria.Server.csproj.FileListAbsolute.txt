@@ -1,0 +1,246 @@
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\appsettings.Development.json
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\appsettings.json
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\TiendaZapateria.Server.exe
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\TiendaZapateria.Server.deps.json
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\TiendaZapateria.Server.runtimeconfig.json
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\TiendaZapateria.Server.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\TiendaZapateria.Server.pdb
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\obj\Debug\net7.0\TiendaZapateria.Server.csproj.AssemblyReference.cache
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\obj\Debug\net7.0\TiendaZapateria.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\obj\Debug\net7.0\TiendaZapateria.Server.AssemblyInfoInputs.cache
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\obj\Debug\net7.0\TiendaZapateria.Server.AssemblyInfo.cs
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\obj\Debug\net7.0\TiendaZapateria.Server.csproj.CoreCompileInputs.cache
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\obj\Debug\net7.0\TiendaZapateria.Server.MvcApplicationPartsAssemblyInfo.cs
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\obj\Debug\net7.0\TiendaZapateria.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\obj\Debug\net7.0\staticwebassets\msbuild.TiendaZapateria.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\obj\Debug\net7.0\staticwebassets\msbuild.build.TiendaZapateria.Server.props
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TiendaZapateria.Server.props
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TiendaZapateria.Server.props
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\obj\Debug\net7.0\staticwebassets.build.json
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\obj\Debug\net7.0\staticwebassets.development.json
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\obj\Debug\net7.0\scopedcss\bundle\TiendaZapateria.Server.styles.css
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\obj\Debug\net7.0\TiendaZapateria.Server.csproj.CopyComplete
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\obj\Debug\net7.0\TiendaZapateria.Server.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\obj\Debug\net7.0\refint\TiendaZapateria.Server.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\obj\Debug\net7.0\TiendaZapateria.Server.pdb
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\obj\Debug\net7.0\TiendaZapateria.Server.genruntimeconfig.cache
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\obj\Debug\net7.0\ref\TiendaZapateria.Server.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\AutoMapper.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Azure.Core.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Azure.Identity.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\BCrypt.Net-Next.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Humanizer.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\System.CodeDom.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\TiendaZapateria.Shared.dll
+D:\Examen Samuel\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\TiendaZapateria.Shared.pdb
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\appsettings.Development.json
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\appsettings.json
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\TiendaZapateria.Server.exe
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\TiendaZapateria.Server.deps.json
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\TiendaZapateria.Server.runtimeconfig.json
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\TiendaZapateria.Server.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\TiendaZapateria.Server.pdb
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\AutoMapper.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Azure.Core.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Azure.Identity.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\BCrypt.Net-Next.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Humanizer.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\System.CodeDom.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\System.Memory.Data.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\TiendaZapateria.Shared.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\bin\Debug\net7.0\TiendaZapateria.Shared.pdb
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\obj\Debug\net7.0\TiendaZapateria.Server.csproj.AssemblyReference.cache
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\obj\Debug\net7.0\TiendaZapateria.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\obj\Debug\net7.0\TiendaZapateria.Server.AssemblyInfoInputs.cache
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\obj\Debug\net7.0\TiendaZapateria.Server.AssemblyInfo.cs
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\obj\Debug\net7.0\TiendaZapateria.Server.csproj.CoreCompileInputs.cache
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\obj\Debug\net7.0\TiendaZapateria.Server.MvcApplicationPartsAssemblyInfo.cs
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\obj\Debug\net7.0\TiendaZapateria.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\obj\Debug\net7.0\staticwebassets\msbuild.TiendaZapateria.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\obj\Debug\net7.0\staticwebassets\msbuild.build.TiendaZapateria.Server.props
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TiendaZapateria.Server.props
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TiendaZapateria.Server.props
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\obj\Debug\net7.0\staticwebassets.pack.json
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\obj\Debug\net7.0\staticwebassets.build.json
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\obj\Debug\net7.0\staticwebassets.development.json
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\obj\Debug\net7.0\scopedcss\bundle\TiendaZapateria.Server.styles.css
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\obj\Debug\net7.0\TiendaZapateria.Server.csproj.CopyComplete
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\obj\Debug\net7.0\TiendaZapateria.Server.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\obj\Debug\net7.0\refint\TiendaZapateria.Server.dll
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\obj\Debug\net7.0\TiendaZapateria.Server.pdb
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\obj\Debug\net7.0\TiendaZapateria.Server.genruntimeconfig.cache
+D:\proyectos\TiendaZapateria\TiendaZapateria.Server\obj\Debug\net7.0\ref\TiendaZapateria.Server.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\appsettings.Development.json
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\appsettings.json
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\TiendaZapateria.Server.exe
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\TiendaZapateria.Server.deps.json
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\TiendaZapateria.Server.runtimeconfig.json
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\TiendaZapateria.Server.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\TiendaZapateria.Server.pdb
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\AutoMapper.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\Azure.Core.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\Azure.Identity.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\BCrypt.Net-Next.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\Humanizer.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\System.CodeDom.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\TiendaZapateria.Shared.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\bin\Debug\net7.0\TiendaZapateria.Shared.pdb
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\obj\Debug\net7.0\TiendaZapateria.Server.csproj.AssemblyReference.cache
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\obj\Debug\net7.0\TiendaZapateria.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\obj\Debug\net7.0\TiendaZapateria.Server.AssemblyInfoInputs.cache
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\obj\Debug\net7.0\TiendaZapateria.Server.AssemblyInfo.cs
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\obj\Debug\net7.0\TiendaZapateria.Server.csproj.CoreCompileInputs.cache
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\obj\Debug\net7.0\TiendaZapateria.Server.MvcApplicationPartsAssemblyInfo.cs
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\obj\Debug\net7.0\TiendaZapateria.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\obj\Debug\net7.0\staticwebassets\msbuild.TiendaZapateria.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\obj\Debug\net7.0\staticwebassets\msbuild.build.TiendaZapateria.Server.props
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TiendaZapateria.Server.props
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TiendaZapateria.Server.props
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\obj\Debug\net7.0\staticwebassets.build.json
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\obj\Debug\net7.0\staticwebassets.development.json
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\obj\Debug\net7.0\scopedcss\bundle\TiendaZapateria.Server.styles.css
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\obj\Debug\net7.0\TiendaZapateria.Server.csproj.CopyComplete
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\obj\Debug\net7.0\TiendaZapateria.Server.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\obj\Debug\net7.0\refint\TiendaZapateria.Server.dll
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\obj\Debug\net7.0\TiendaZapateria.Server.pdb
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\obj\Debug\net7.0\TiendaZapateria.Server.genruntimeconfig.cache
+D:\Examen Samuel\ProyectoBackend\TiendaZapateria.Server\obj\Debug\net7.0\ref\TiendaZapateria.Server.dll

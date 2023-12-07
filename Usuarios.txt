@@ -1,0 +1,19 @@
+
+
+---Administradores---
+email: juan.lopez@example.com
+claveAccesso: claveJuan1
+
+email: maria.martinez@example.com
+claveAccesso: claveMaria1
+
+
+***Empleados***
+email: ricardo.hernandez@example.com
+claveAccesso: claveRicardo1
+
+email: laura.gomez@example.com
+claveAccesso: claveLaura1
+
+email: carlos.diaz@example.com
+claveAccesso: claveCarlos1
